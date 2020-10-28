@@ -8,13 +8,13 @@ We will chronologically record minutes of all #WP-NAME# meetings here.  We recor
 ### #DATE#, #TOPIC
 
 Type | Description | Owner
----- | ---- | ---- | ----
+---- | ---- | ----
 T | #SAMPLE TASK# | #OWNER# 
 
 ### 11/09/2020, First Meeting
 Start=4.00 PM End=5.27 PM
 Type | Description | Owner
----- | ---- | ---- | ----
+---- | ---- | ----
 T | PROPOSAL | EVERYONE
 D | DECIDE ASSIGNMENT TOPIC | EVERYONE
 D | DECIDE DATASET TO USE | EVERYONE
@@ -23,7 +23,7 @@ I | DO SOME RESEARCH ON MODELS AND OTHER IDEAS | EVERYONE
 ### 11/09/2020, First Meeting
 Start=4.00 PM End=5.27 PM
 Type | Description | Owner
----- | ---- | ---- | ----
+---- | ---- | ---- 
 T | PROPOSAL | EVERYONE
 D | DECIDE ASSIGNMENT TOPIC | EVERYONE
 D | DECIDE DATASET TO USE | EVERYONE
@@ -32,7 +32,7 @@ I | DO SOME RESEARCH ON MODELS AND OTHER IDEAS | EVERYONE
 ### 03/10/2020, Eighth Meeting
 Start=4.00 PM End=7.30 PM 03/10/2020
 Type | Description | Owner
----- | ---- | ---- | ----
+---- | ---- | ----
 I | FOUND SPAM ON DATASET | EVERYONE
 T | SPAM REMOVAL ON DATASET | EVERYONE
 T | CNN MODEL RESEARCH | EVERYONE
@@ -40,7 +40,7 @@ T | CNN MODEL RESEARCH | EVERYONE
 ### 04/10/2020, Ninth Meeting
 Start=9.00 PM End=11.55PM 04/10/2020
 Type | Description | Owner
----- | ---- | ---- | ----
+---- | ---- | ----
 T | IMPLEMENT CNN | NATHANAEL
 T | LSTM MODELS RESEARCH | EVERYONE
 
