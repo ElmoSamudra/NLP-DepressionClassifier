@@ -31,7 +31,7 @@ D | DECIDE DATASET TO USE | EVERYONE
 I | DO SOME RESEARCH ON MODELS AND OTHER IDEAS | EVERYONE
 
 ### 03/10/2020, Eighth Meeting
-Start=4.00 PM End=7.30 PM 03/10/2020
+Start=4.00 PM End=7.30 PM
 Type | Description | Owner
 ---- | ---- | ----
 I | FOUND SPAM ON DATASET | EVERYONE
