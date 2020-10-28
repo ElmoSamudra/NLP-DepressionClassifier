@@ -1,6 +1,7 @@
 ## Meeting Minutes
 
-We will chronologically record minutes of all #WP-NAME# meetings here.  We record as Type:
+We will chronologically record minutes of all the project meetings here.  
+We record as Type:
 * **Tasks** (T) - which must have an Owner and a deadline
 * **Decisions** (D)
 * **Information** (I) - everything else of interest.
