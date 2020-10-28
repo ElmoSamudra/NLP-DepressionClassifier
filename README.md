@@ -13,7 +13,7 @@ Subreddits:
 * [https://www.reddit.com/r/SuicideWatch/](r/SuicideWatch)
 
 ## Report
-Here is the link for our report: 
+Here is the link for our report: https://github.com/ElmoSamudra/NLP-DepressionClassifier/blob/master/final_report.pdf
 
 ## Contributors
 * Nathanael Luira Yoewono
