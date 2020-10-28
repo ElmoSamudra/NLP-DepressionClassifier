@@ -14,5 +14,5 @@ Subreddits:
 
 ## Contributors
 * Nathanael Luira Yoewono
-* Jonathan Aland Prasetyo
+* Jonathan Aland Prasetiyo
 * Shawn Elmo Samudra
