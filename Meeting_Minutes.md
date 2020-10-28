@@ -39,14 +39,14 @@ T | SPAM REMOVAL ON DATASET | EVERYONE
 T | CNN MODEL RESEARCH | EVERYONE
 
 ### 04/10/2020, Ninth Meeting
-Start=9.00 PM End=11.55PM 04/10/2020
+Start=9.00 PM End=11.55PM
 Type | Description | Owner
 ---- | ---- | ----
 T | IMPLEMENT CNN | NATHANAEL
 T | LSTM MODELS RESEARCH | EVERYONE
 
 ### 06/10/2020 Tenth Meeting
-Start=6.00 PM End=8.00 PM 06/10/2020
+Start=6.00 PM End=8.00 PM
 Type | Description | Owner
 ---- | ---- | ---- 
 T | REEVALUATE DATASETS | NATHANAEL 
@@ -55,7 +55,7 @@ T | MORE RESEARCH ON OTHER MODELS | SHAWN, JONATHAN
 Reevaluate Datasets and More Research on Models
 
 ### 10/10/2020, Eleventh Meeting
-Start = 5PM, End=7PM 10/10/2020
+Start = 5PM, End=7PM
 Type | Description | Owner
 ---- | ---- | ---- 
 D | RE-EVALUATE DATASETS | EVERYONE 
@@ -64,7 +64,7 @@ D | BUILDING RANDOM FOREST | JONATHAN, SHAWN
 D | DATASET RESEARCH | SHAWN 
 
 ### 13/10/2020, Twelfth Meeting
-Start=6.00 PM End=11.00 PM 13/10/2020
+Start=6.00 PM End=11.00 PM
 Type | Description | Owner
 ---- | ---- | ---- 
 D | NEW SUBREDDITS | EVERYONE
@@ -73,14 +73,14 @@ D | CONTINUE REPORT | EVERYONE
 D | PRESENTATION | EVERYONE
 
 ### 14/10/2020, Thirteenth Meeting
-Start=5.00 PM End=1.30 AM 14/10/2020
+Start=5.00 PM End=1.30 AM
 Type | Description | Owner
 ---- | ---- | ---- 
 D | MIGRATING TO GOOGLE CLOUD/MICROSOFT AZURE | EVERYONE 
 D | IMPLEMENTING BASIC LSTM | JONATHAN
 
 ### 19/10/2020, Fourteenth Meeting
-Start=1.00 PM End=5.00PM 19/10/2020
+Start=1.00 PM End=5.00PM
 Type | Description | Owner
 ---- | ---- | ---- 
 D | FINISH PRESENTATION | EVERYONE 
