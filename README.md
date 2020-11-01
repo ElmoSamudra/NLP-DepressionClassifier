@@ -18,7 +18,8 @@ Link: https://github.com/ElmoSamudra/NLP-DepressionClassifier/tree/master/scrape
 
 Clean the data can be done in our preprocessing subreddit script.
 
-Link: https://github.com/ElmoSamudra/NLP-DepressionClassifier/blob/master/preprocessing_visualization/preprocess_subreddit.ipynb
+Preprocessing: https://github.com/ElmoSamudra/NLP-DepressionClassifier/blob/master/preprocessing_visualization/preprocess_subreddit.ipynb
+Train test split: https://github.com/ElmoSamudra/NLP-DepressionClassifier/blob/master/preprocessing_visualization/train_test_split.ipynb
 
 ## Report
 Here is the link for our report: https://github.com/ElmoSamudra/NLP-DepressionClassifier/blob/master/final_report.pdf
