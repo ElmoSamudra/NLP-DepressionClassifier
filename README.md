@@ -12,11 +12,11 @@ Subreddits:
 * [https://www.reddit.com/r/depression/](r/depression)
 * [https://www.reddit.com/r/SuicideWatch/](r/SuicideWatch)
 
-### To get the dataset, please run the scrape subreddit script in the scrape subreddit directory. Follow the example on how the scrape object can be used.
+To get the dataset, please run the scrape subreddit script in the scrape subreddit directory. Follow the example on how the scrape object can be used.
 
 Link: https://github.com/ElmoSamudra/NLP-DepressionClassifier/tree/master/scrape_subreddit
 
-### Clean the data can be done in our preprocessing subreddit script.
+Clean the data can be done in our preprocessing subreddit script.
 
 Link: https://github.com/ElmoSamudra/NLP-DepressionClassifier/blob/master/preprocessing_visualization/preprocess_subreddit.ipynb
 
